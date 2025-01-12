@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Guess</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="_10">请选择数字位数，你所选的位数和我给出的位数相同，不要忘了你有猜10次的机会</string>
+</resources>
